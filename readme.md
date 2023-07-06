@@ -29,4 +29,4 @@ While I have been using Lua for quite some time and I am quite experienced with 
 
 | Day | Lesson |
 | --- | --- |
-|1|[More About Lua](./days/TheBasics.md) 
+|1|[Basic Concepts](./days/TheBasics.md) 
