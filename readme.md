@@ -22,7 +22,7 @@ This is meant to be a good place to come and get into programming if you're not 
 
 While I have been using Lua for quite some time and I am quite experienced with it, I'm still not perfect, information might be left out simply because I didn't remember it, or check. Now I think it's also important to note that I'll be mostly focusing on "Roblox Lua" here, however this should also apply to vanilla lua
 
-
+## The Lessons
 
 | Day | Lesson                                |
 | --- | ------------------------------------- |
