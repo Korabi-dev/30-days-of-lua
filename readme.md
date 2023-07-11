@@ -2,25 +2,25 @@
 
 Hey there 👋
 
-Welcome to my github. This repository is for absolute beginners who'd like to start coding with Lua!
+Welcome to my GitHub. This repository is for absolute beginners who'd like to start coding with Lua!
 
 ## What is Lua ❓
 
-Lua is a simple, fast, and versatile scripting language often used for extending and customizing applications or games. It has a clean syntax and is designed to be easy to learn and integrate with other programming languages.
+Lua is a simple, fast, lightweight, and versatile programming language often used for web-related apps and making games. A popular example of Lua inside of a game is Roblox as it uses a modified Lua 5.1. It was initially started for extending applications. It has a clean syntax which is designed to be easy to learn, This syntax is very similar to the syntax in Python. Lua can be integrated with other programming languages such as C. 
 
 ## Why learn Lua ❓
 
-Lua is a simple, powerful, and fast language. It's based on the C programming language, but still easy to learn!
+Lua is a very easy-to-learn programming language used in various websites, games, and more.  
 
 ## What should I expect ❓
 
-This is meant to be a good place to come and get into programming if you're not already a programmer, I'll try my best to not only teach the Lua language but also explain general programming concepts, incorporate real world examples, and also some fun challeneges along the way.
+This is meant to be an excellent starting place to learn Lua and get into programming if you haven't already. I will try my hardest to not only teach Lua but also explain it in depth, explain general programming concepts, incorporate real-world examples, and some fun challenges along the way.
 
 
 
 ## Reminder ⚠️
 
-While I have been using Lua for quite some time and I am quite experienced with it, I'm still not perfect, information might be left out simply because I didn't remember it, or check. Now I think it's also important to note that I'll be mostly focusing on "Roblox Lua" here, however this should also apply to vanilla lua. This course assumes you have a way to actually run lua scripts (such as a roblox game, or an online source)
+While I am quite experienced in Lua I'm still not the best at it, However, I will be trying my best and somethings will be skipped over and left out because I don't remember it. I will be mainly focusing on Luau (https://github.com/Roblox/luau) also known as "Roblox Lua", most of the key concepts still apply to standard Lua. This course assumes you have a method to execute Lua Scripts. This can be done via Roblox Studio or an online source. 
 
 ## The Lessons 🎓
 
