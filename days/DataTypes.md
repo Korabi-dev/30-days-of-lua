@@ -25,11 +25,11 @@ local myTable = {"Tom", "Jerry"}
 
 ### Strings
 
-Strings are bits of text that can represent anything, it can be a single character, a full sentence, or just random letters and numbers. String are sorrounded by quotes ("").
+Strings are bits of text that can represent anything, it can be a single character, a full sentence, or just random letters and numbers. The string is surrounded by quotes ("") or you could do half quotes ('').
 
 ### Numbers
 
-The name is self explanatory, numbers in lua can hold any number between `-2⁶³` up to `2⁶³`.
+The name is self-explanatory, numbers in lua can hold any number between `-2⁶³` up to `2⁶³`.
 
 ### Booleans
 In lua booleans hold only 2 values, either `true` or `false`, this is the basis for all logical operators such as: if this is true, then do this
